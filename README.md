@@ -1,7 +1,7 @@
 # titanic-ml-project
 End-to-end machine–learning pipeline for Kaggle **Titanic: Machine Learning from Disaster** competition.
 
-> **Public LB score :** **0.81360** (Top 24 %)
+> **Public LB score :** **0.76076** (Rank ≈ 13 k / 40 k)
 
 ---
 
